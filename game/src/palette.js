@@ -1,0 +1,30 @@
+// THE WRONG BOX — one coherent palette. Near-black corridor, cold
+// blue-grey walls, candle amber for the only warm light, blood red reserved
+// for the jumpscare and for sanity running out.
+export const PALETTE = {
+  background: '#050608',
+  wallTop: '#0b0e16',
+  wallBottom: '#141824',
+  floorTop: '#171310',
+  floorBottom: '#060505',
+  floorLine: '#241d18',
+  boxWood: '#4a3421',
+  boxWoodDark: '#332412',
+  boxWoodLight: '#6b4a2c',
+  boxIron: '#1c1f26',
+  boxIronEdge: '#3a3f4a',
+  candleFlame: '#ffb347',
+  candleGlow: '#ff9a2e',
+  warmGlow: '#ff8c1a',
+  text: '#d8d3c3',
+  textDim: '#8b8676',
+  textFaint: '#55524a',
+  hudBar: '#7a1f1f',
+  hudBarBack: '#1a1414',
+  sanityLow: '#c02727',
+  blood: '#8a0f0f',
+  facePale: '#cfc8b8',
+  faceShadow: '#0a0908',
+  eyeDark: '#000000',
+  fog: '#9aa3b5',
+};
